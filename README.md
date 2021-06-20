@@ -17,7 +17,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Practice Sites](#practice-sites-1)
 - #### [Programming](#programming-1)
 - #### [Active Directory](#active-directory-1)
-- #### [OSINT Challenges / CTF's](#osint-challenges--ctfs-1)
+- [OSINT Challenges / CTF's](#osint-challenges--ctfs-1)
 - #### [Random Resources](#random-resources-1)
 - #### [Buffer Overflows](#buffer-overflows-1)
 - #### [Cheat Sheets](#cheat-sheets-1)
