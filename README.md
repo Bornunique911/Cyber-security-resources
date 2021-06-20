@@ -14,13 +14,13 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Networking](#networking-1)
 - #### [Web Pentesting](#web-pentesting-1)
 - #### [Binary Expolitation](#binary-expolitation-1)
-- #### Practice Sites(#practice-sites-1)
-- #### Programming
-- #### Active Directory
-- #### OSINT Challenges / CTF's
-- #### Random Resources
-- #### Buffer Overflows
-- #### Cheat Sheets
+- #### [Practice Sites](#practice-sites-1)
+- #### [Programming](#programming-1)
+- #### [Active Directory](#active-directory-1)
+- #### [OSINT Challenges / CTF's](#osint-challenges--ctfs-1)
+- #### [Random Resources](#random-resources-1)
+- #### [Buffer Overflows](#buffer-overflows-1)
+- #### [Cheat Sheets](#cheat-sheets-1)
 ---
 
  ## Networking
