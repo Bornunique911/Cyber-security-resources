@@ -58,14 +58,15 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
- - #### [Hacker101](https://www.hacker101.com/playlists/newcomers)
- - #### [Tryhackme Web Path](https://tryhackme.com/paths)
- - #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
- - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
- - #### [Portswigger Web-Learning Path](https://portswigger.net/web-security/learning-path)
- - #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0 "https://gosecure.github.io/template-injection-workshop/#0")
- - #### [OWASP's Top Ten Vulns (By Night and Skelli)](https://docs.google.com/presentation/d/1Hnn9PSs7zvtQyEFfxTvlQLbDhc0Jr5KaQwp0gw3anXM/edit#slide=id.g708a6ee8a1_0_46)
- - #### [Introduction to Web Application Hacking OWASP Top 10](https://cybrotacademy.com/course/introduction-to-web-application-hacking-owasp-top-10/)
+- #### [Practice your XSS skills](https://xss-game.appspot.com/)
+- #### [Hacker101](https://www.hacker101.com/playlists/newcomers)
+- #### [Tryhackme Web Path](https://tryhackme.com/paths)
+- #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
+- #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
+- #### [Portswigger Web-Learning Path](https://portswigger.net/web-security/learning-path)
+- #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0 "https://gosecure.github.io/template-injection-workshop/#0")
+- #### [OWASP's Top Ten Vulns (By Night and Skelli)](https://docs.google.com/presentation/d/1Hnn9PSs7zvtQyEFfxTvlQLbDhc0Jr5KaQwp0gw3anXM/edit#slide=id.g708a6ee8a1_0_46)
+- #### [Introduction to Web Application Hacking OWASP Top 10](https://cybrotacademy.com/course/introduction-to-web-application-hacking-owasp-top-10/)
 
 ---
 
