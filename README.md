@@ -18,7 +18,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Programming](#programming)
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
-- [Random Resources](#extra-resources)
+- [Extra Resources](#extra-resources)
 - [Buffer Overflows](#buffer-overflows)
 - [Cheat Sheets](#cheat-sheets)
 ---
