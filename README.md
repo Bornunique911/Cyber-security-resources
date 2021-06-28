@@ -18,7 +18,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Programming](#programming)
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
-- [Random Resources](#random-resources)
+- [Random Resources](#extra-resources)
 - [Buffer Overflows](#buffer-overflows)
 - [Cheat Sheets](#cheat-sheets)
 ---
@@ -159,8 +159,9 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ---
 
-## Random Resources
+## Extra Resources
 - #### [Learn Linux](https://linuxjourney.com/)
+- #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### Precompiled Exploits: 
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
