@@ -58,6 +58,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
+- #### [Bug Bounty Training](https://www.stokfredrik.com/bugbountytraining)
 - #### [Practice your XSS skills](https://xss-game.appspot.com/)
 - #### [Hacker101](https://www.hacker101.com/playlists/newcomers)
 - #### [Tryhackme Web Path](https://tryhackme.com/paths)
