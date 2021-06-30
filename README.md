@@ -162,6 +162,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [Yumatshushima blogs](https://dev.to/yumatsushima07)
 - #### [Learn Linux](https://linuxjourney.com/)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### Precompiled Exploits: 
