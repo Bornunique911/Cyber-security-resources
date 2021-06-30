@@ -58,7 +58,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
-- #### [Excellent Bug Hunting Methodology and some resources](https://mrsinister1501.medium.com/my-bug-bounty-hunting-journey-methodology-and-tips-xd-790d8deb6247)
+- #### [MR-SINISTER blogs and guides](https://mrsinister1501.medium.com/)
 - #### [Bug Bounty Training](https://www.stokfredrik.com/bugbountytraining)
 - #### [Practice your XSS skills](https://xss-game.appspot.com/)
 - #### [Hacker101](https://www.hacker101.com/playlists/newcomers)
