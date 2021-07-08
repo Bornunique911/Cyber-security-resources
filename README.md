@@ -27,6 +27,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
  
+- #### [Service Names with their Port Numbers](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) 
 - #### [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 - #### [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 - #### [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
@@ -162,6 +163,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
 - #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
 - #### [Learn Linux](https://linuxjourney.com/)
