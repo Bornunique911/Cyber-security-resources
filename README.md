@@ -163,6 +163,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [Bash Programming guide](https://guide.bash.academy/)
 - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
 - #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
