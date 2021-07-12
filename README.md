@@ -163,6 +163,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 - #### [Bash Programming guide](https://guide.bash.academy/)
 - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
