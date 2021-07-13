@@ -150,18 +150,26 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
-- #### [OSINT Challenges](https://courses.thecyberinst.org/courses/osint-challenge)
-- #### [Sourcing Game](https://sourcing.games/game-1/)
-- #### [Quiztime Twitter](https://twitter.com/quiztime)
-- #### [OSINT Mini course](https://courses.thecyberinst.org/courses/osintmini)
-- #### [OSINT Game](https://twitter.com/Sector035/status/1211038518635614208)
-- #### [Tracelabs search-party](https://www.tracelabs.org/initiatives/search-party)
-- #### [Tryhackme Geo Locating Images](https://tryhackme.com/room/geolocatingimages)
-- #### [Tryhackme Googl Dorking](https://tryhackme.com/room/googledorking)
-- #### [Tryhackme Sakura](https://tryhackme.com/room/sakura)
-- #### [Tryhackme SearchLight OSINT](https://tryhackme.com/room/searchlightosint)
-- #### [KaffeeSec - SoMeSINT](https://tryhackme.com/room/somesint)
-- #### [CyberSoc Wales CTF](https://ctf.cybersoc.wales/)
+- #### [THECYBERINST OSINT challenge](https://courses.thecyberinst.org/courses/osint-challenge)
+- #### [Sourcing game 1](https://sourcing.games/game-1/)
+- #### [Twitter Quittime](https://twitter.com/quiztime)
+- ###h [CyberINST course osintmini](https://courses.thecyberinst.org/courses/osintmini)
+- #### [Sector035 twitter OSINT challenges](https://twitter.com/Sector035/status/1211038518635614208)
+- #### [TraceLabs Search Party](https://www.tracelabs.org/initiatives/search-party)
+- #### [TryHackMe GelocatingImages room](https://tryhackme.com/room/geolocatingimages)
+- #### [TryHackMe Google Dorking room](https://tryhackme.com/room/googledorking)
+- #### [TryHackMe Sakura room](https://tryhackme.com/room/sakura)
+- #### [TryHackMe SearchLightOsint room](https://tryhackme.com/room/searchlightosint)
+- #### [TryHackMe Somsint room](https://tryhackme.com/room/somesint)
+- #### [CyberSoc Wales](https://ctf.cybersoc.wales/)
+- #### [TryHackME OHSINT room](https://tryhackme.com/room/ohsint)
+- #### [Geoguessr](https://geoguessr.com/)
+- #### [CyberDefender labs](https://cyberdefenders.org/labs/38)
+- #### [HackTheBox challenges](https://app.hackthebox.eu/challenges)
+- #### [TraceLabs Slack](https://tracelabs.org/slack)
+- #### [TryHackMe MNEMONIC room](https://tryhackme.com/room/mnemonic)
+- #### [TryHackMe JPGChat room](https://tryhackme.com/room/jpgchat)
+- #### [TryHackMe Shodan room](https://tryhackme.com/room/shodan)
 
 ---
 
