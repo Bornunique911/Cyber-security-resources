@@ -21,8 +21,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C#](#c-2)
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
+- [Overflows](#overflows)
 - [Extra Resources](#extra-resources)
-- [Buffer Overflows](#buffer-overflows)
 - [Cheat Sheets](#cheat-sheets)
 ---
 
@@ -174,6 +174,13 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ---
 
+## Overflows
+- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
+- #### [How2Heap](https://github.com/shellphish/how2heap)
+
+---
+
 ## Extra Resources
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 - #### [Bash Programming guide](https://guide.bash.academy/)
@@ -186,10 +193,6 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits "https://github.com/offensive-security/exploit-database-bin-sploits") 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
 - #### [Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
----
-## Buffer Overflows
-- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
-- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 
 ---
 ## Cheat sheets
