@@ -22,6 +22,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
+- [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
 ---
@@ -182,8 +183,15 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ---
 
-## Extra Resources
+## OSCP Resources
+- #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
+- #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+
+---
+
+## Extra Resources
+
 - #### [Bash Programming guide](https://guide.bash.academy/)
 - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
