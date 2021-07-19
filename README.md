@@ -16,6 +16,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Binary Expolitation](#binary-expolitation)
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
+     - [Python](#python)
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
@@ -93,10 +94,12 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Programming
-- #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
-
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
+ 	### Python
+	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
+
+
 	### C++
 	 - #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 	 - #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
@@ -124,6 +127,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Active-Directory
+- #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
 - #### [Kvenkatraman Gitbook AD101](https://kvenkatraman10.gitbook.io/ad101/)
 - #### [Attacking Kerberos (m0chan.github.io)](https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html)
