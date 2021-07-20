@@ -32,6 +32,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
  
+- #### [N/W Basics Part 1 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-1)
+- #### [N/W Basics Part 2 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-2)
 - #### [Service Names with their Port Numbers](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) 
 - #### [Intro to Networks by Peter L Dordal](http://intronetworks.cs.luc.edu/)
 - #### [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
@@ -65,6 +67,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
+- #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
 - #### [MR-SINISTER blogs and guides](https://mrsinister1501.medium.com/)
 - #### [Bug Bounty Training](https://www.stokfredrik.com/bugbountytraining)
 - #### [Practice your XSS skills](https://xss-game.appspot.com/)
@@ -197,7 +200,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
-
+- #### [Hackers Arise](https://www.hackers-arise.com/)
 - #### [Bash Programming guide](https://guide.bash.academy/)
 - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
