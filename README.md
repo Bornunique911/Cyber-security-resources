@@ -68,6 +68,10 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ## Web-Pentesting
 - #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
+- #### [XSS Attacks Hackers-Arise](https://www.hackers-arise.com/post/2018/01/05/web-app-hacking-part-9-cross-site-scripting-xss)
+- #### [Burp Suite Part 2 - Bypass Weak Input Validation to Upload Malware to a Website](https://www.hackers-arise.com/post/web-app-hacking-burpsuite-part-2-bypassing-weak-input-validation)
+- #### [Burp Suite Part 3 - Testing for Persistent XSS](https://www.hackers-arise.com/post/web-app-hacking-burpsuite-part-3-testing-for-persistent-xss)
+- #### [Burp Suite Part 4 - RFI](https://www.hackers-arise.com/post/web-app-hacking-burpsuite-part-4-remote-file-inclusion-rfi)
 - #### [MR-SINISTER blogs and guides](https://mrsinister1501.medium.com/)
 - #### [Bug Bounty Training](https://www.stokfredrik.com/bugbountytraining)
 - #### [Practice your XSS skills](https://xss-game.appspot.com/)
