@@ -14,6 +14,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Networking](#networking)
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-expolitation)
+- [x86-64 Assembly](#x86-64-assembly)
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
      - [Python](#python)
@@ -23,7 +24,6 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
-- [x86-64 Assembly](#x86-64-assembly)
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
@@ -93,6 +93,12 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
 - #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
+
+---
+
+##  x86-64 Assembly
+- #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
+- #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ---
 
@@ -195,11 +201,6 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 - #### [How2Heap](https://github.com/shellphish/how2heap)
-
----
-##  x86-64 Assembly
-- #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
-- #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ---
 
