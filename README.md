@@ -1,6 +1,6 @@
 # Cyber Security Resources
 I have collected many resources and may add many more in the future thanks :)
-It will help you 
+It will help you a lot :D
 
 Credits are also included for some google docs
 
@@ -228,6 +228,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
 - #### [Hackers Arise](https://www.hackers-arise.com/)
 - #### [Bash Programming guide](https://guide.bash.academy/)
 - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
