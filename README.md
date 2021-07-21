@@ -228,6 +228,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
 - #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
 - #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
 - #### [Hackers Arise](https://www.hackers-arise.com/)
