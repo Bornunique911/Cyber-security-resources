@@ -13,7 +13,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 - [Networking](#networking)
 - [Web Pentesting](#web-pentesting)
-- [Binary Expolitation](#binary-expolitation)
+- [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
@@ -90,15 +90,30 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ## Binary-Exploitation
 - #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
-- #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html "https://opensecuritytraining.info/IntroX86.html")
 - #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
+
+Thanks to Swanandx for these resources. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
+
+Blogs:-
+
+   - #### [PWN challenges Writeups](https://syedfarazabrar.com/)
+   - #### [Kileak Github Writeups](https://kileak.github.io/)
+   - #### [4mianwayne PWN Writeups](https://d4mianwayne.github.io/)
+   - #### [CTF101 Bin-Exp Buffer Overflow](https://ctf101.org/binary-exploitation/buffer-overflow/)
+   - #### [Skull Security PWN CTF walkthroughs](https://blog.skullsecurity.org/category/ctfs)
+
+Youtube :-
+
+- #### [Kileak PWN/Assembly CTF Writeup Videos](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg/videos)
+- #### [Binary Exploitation/Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 ---
 
 ##  x86-64 Assembly
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html)
 
 ---
 
