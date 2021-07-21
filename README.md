@@ -95,7 +95,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 Thanks to Swanandx for these resources. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
-Blogs:-
+  ### Blogs:-
 
    - #### [PWN challenges Writeups](https://syedfarazabrar.com/)
    - #### [Kileak Github Writeups](https://kileak.github.io/)
@@ -103,10 +103,10 @@ Blogs:-
    - #### [CTF101 Bin-Exp Buffer Overflow](https://ctf101.org/binary-exploitation/buffer-overflow/)
    - #### [Skull Security PWN CTF walkthroughs](https://blog.skullsecurity.org/category/ctfs)
 
-Youtube :-
+  ### Youtube :-
 
-- #### [Kileak PWN/Assembly CTF Writeup Videos](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg/videos)
-- #### [Binary Exploitation/Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+   - #### [Kileak PWN/Assembly CTF Writeup Videos](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg/videos)
+   - #### [Binary Exploitation/Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 ---
 
