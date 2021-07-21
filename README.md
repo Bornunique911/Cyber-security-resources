@@ -23,7 +23,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
-- [x86-64 Assembly]()
+- [x86-64 Assembly](#x86-64-assembly)
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
