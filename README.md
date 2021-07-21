@@ -67,6 +67,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
+- #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
 - #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
 - #### [XSS Attacks Hackers-Arise](https://www.hackers-arise.com/post/2018/01/05/web-app-hacking-part-9-cross-site-scripting-xss)
 - #### [Burp Suite Part 2 - Bypass Weak Input Validation to Upload Malware to a Website](https://www.hackers-arise.com/post/web-app-hacking-burpsuite-part-2-bypassing-weak-input-validation)
