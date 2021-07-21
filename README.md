@@ -23,7 +23,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
-- [x64 & Assembly]()
+- [x86-64 Assembly]()
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
@@ -197,7 +197,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [How2Heap](https://github.com/shellphish/how2heap)
 
 ---
-## x64 & Assembly
+##  x86-64 Assembly
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
