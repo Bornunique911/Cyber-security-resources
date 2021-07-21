@@ -228,6 +228,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
 - #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
 - #### [Hackers Arise](https://www.hackers-arise.com/)
 - #### [Bash Programming guide](https://guide.bash.academy/)
