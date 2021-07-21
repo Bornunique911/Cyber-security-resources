@@ -94,7 +94,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
 
 
-Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
+#### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
   ### Blogs:-
 
