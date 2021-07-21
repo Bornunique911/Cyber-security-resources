@@ -23,6 +23,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Active Directory](#active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
+- [x64 & Assembly]()
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
@@ -194,6 +195,11 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 - #### [How2Heap](https://github.com/shellphish/how2heap)
+
+---
+## x64 & Assembly
+- #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
+- #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 ---
 
