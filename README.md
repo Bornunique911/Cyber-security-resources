@@ -34,12 +34,21 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
  - #### [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner)
  - #### [HackerSploit YouTube Channel](https://www.youtube.com/c/HackerSploit)
-
+ - #### [TheCyberMentor YouTube Channel](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw). PEH course is divided into categories in his channel for FREE!!
+     These can also be found on [TCM's website](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) or on YouTube below.
+     The course he offers is free on YouTube. He also does giveaways which can be found on TCM's [Twitter](https://twitter.com/thecybermentor)
+     - #### [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8)
+     - #### [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
+     - #### [Web Application Pentesting](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
+     - #### [Buffer OverFlow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+ - #### [Learn Ethical Hacking (CEH Journey) Network Chunk](https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ)
+  
 ---
 
  ## Networking
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
+- #### [FREE CCNA 200-301. Complete Course. NetworkChuck 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
 - #### [N/W Basics Part 1 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-1)
 - #### [N/W Basics Part 2 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-2)
