@@ -41,7 +41,6 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - #### [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
      - #### [Web Application Pentesting](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
      - #### [Buffer OverFlow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
- - #### [Learn Ethical Hacking (CEH Journey) Network Chunk](https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ)
   
 ---
 
