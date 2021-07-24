@@ -32,7 +32,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  ## Networking
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
- 
+- #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
 - #### [N/W Basics Part 1 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-1)
 - #### [N/W Basics Part 2 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-2)
 - #### [Service Names with their Port Numbers](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) 
