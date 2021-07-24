@@ -11,7 +11,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
-- [Intro To-CyberSec](#intro-to-cyberesec)
+- [Intro To-CyberSec](#intro-to-cybersec)
 - [Networking](#networking)
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
