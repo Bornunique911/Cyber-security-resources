@@ -1,5 +1,5 @@
 # Cyber Security Resources
-I have collected many resources and may add many more in the future thanks :)
+I have collected many FREE resources and may add many more in the future thanks :)
 It will help you a lot :D
 
 Credits are also included for some google docs
@@ -11,6 +11,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ### Index
 
+- [Intro To-CyberSec](#intro-to-cyberesec)
 - [Networking](#networking)
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
@@ -27,6 +28,13 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
+---
+
+ ## Intro To CyberSec
+ - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
+ - #### [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner)
+ - #### [HackerSploit YouTube Channel](https://www.youtube.com/c/HackerSploit)
+
 ---
 
  ## Networking
@@ -68,6 +76,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
+- #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
 - #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
 - #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
 - #### [XSS Attacks Hackers-Arise](https://www.hackers-arise.com/post/2018/01/05/web-app-hacking-part-9-cross-site-scripting-xss)
@@ -228,6 +237,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [Cisco's Skillsforall](https://skillsforall.com/)
 - #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
 - #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
 - #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
