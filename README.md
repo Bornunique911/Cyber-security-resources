@@ -281,6 +281,8 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - Reverse Shell Cheat Sheet 
 	- #### [Rev shell generator](https://0day.exposed/reverseshell "https://0day.exposed/reverseshell") 
 - NMap Cheat Sheet 
+	
+	- #### [What is Nmap by Aksheet](https://aksheet10.medium.com/what-is-nmap-218784bcb495)
 	- #### [NMAP cheat sheet](https://highon.coffee/blog/nmap-cheat-sheet/ "https://highon.coffee/blog/nmap-cheat-sheet/") 
 - Linux Commands Cheat Sheet
 	- #### [Linux cheat sheet](https://highon.coffee/blog/linux-commands-cheat-sheet/ "https://highon.coffee/blog/linux-commands-cheat-sheet/") 
