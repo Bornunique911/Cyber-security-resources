@@ -178,6 +178,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 ## Active-Directory
 - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
+- #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
 - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
 - #### [Kvenkatraman Gitbook AD101](https://kvenkatraman10.gitbook.io/ad101/)
