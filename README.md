@@ -22,7 +22,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
-- [Active Directory](#active-directory)
+- [Active Directory](#windows-and-active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
 - [OSCP resources](#oscp-resources)
@@ -176,7 +176,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 --- 
 
-## Active-Directory
+## Windows and Active-Directory
 - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
 - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
 - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
