@@ -22,7 +22,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
-- [Active Directory](#windows-and-active-directory)
+- [Windows and Active Directory](#windows-and-active-directory)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
 - [OSCP resources](#oscp-resources)
