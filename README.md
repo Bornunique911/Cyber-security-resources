@@ -32,6 +32,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
  ## Intro To CyberSec
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
+- #### [So you want to be a Hacker?](https://netsec.ws/?p=468)
 - #### [Becoming a Pentester by Jhalon](https://jhalon.github.io/becoming-a-pentester/)
 - #### [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner)
 - #### [HackerSploit YouTube Channel](https://www.youtube.com/c/HackerSploit)
