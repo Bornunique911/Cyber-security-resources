@@ -37,7 +37,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner)
 - #### [HackerSploit YouTube Channel](https://www.youtube.com/c/HackerSploit)
 - #### [TheCyberMentor YouTube Channel](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw). PEH course is divided into categories in his channel for FREE!!
-     These can also be found on [TCM's website](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) or on YouTube below.
+     These can also be found on [TCM's PEH course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) or on YouTube below.
      The course he offers is free on YouTube. He also does giveaways which can be found on TCM's [Twitter](https://twitter.com/thecybermentor)
      - #### [Full Ethical Hacking Course - Beginner Network Penetration Testing (2019)](https://www.youtube.com/watch?v=WnN6dbos5u8)
      - #### [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
