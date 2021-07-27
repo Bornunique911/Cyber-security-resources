@@ -23,6 +23,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C](#c-1)
      - [C#](#c-2)
 - [Windows and Active Directory](#windows-and-active-directory)
+- [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
 - [Overflows](#overflows)
 - [OSCP resources](#oscp-resources)
@@ -203,6 +204,13 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 - #### [Post Exploitation](http://www.pentest-standard.org/index.php/Post_Exploitation)
 - #### [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
 - #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
+
+---
+
+## AV Evasion
+
+- #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
+- #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
 
 ---
 
