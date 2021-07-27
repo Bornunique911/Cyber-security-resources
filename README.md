@@ -16,6 +16,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
+- [Forensics](#forensics)
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
      - [Python](#python)
@@ -134,6 +135,13 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html)
+
+---
+
+## Forensics
+
+- #### [Introduction to Windows Forensics](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve)
+
 
 ---
 
