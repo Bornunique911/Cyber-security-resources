@@ -75,14 +75,13 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [ZeroMQ Guide](http://zguide.zeromq.org/page%3Aall)
 - #### [What is Computer Networking](https://www.lifewire.com/what-is-computer-networking-816249)
 - #### [Networking Fundamentals (netacad)](https://www.netacad.com/courses/networking/networking-essential)
-- #### [The Five Pillars of an Information/Cyber Security Professional](https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md "https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md")
-
-- #### [Professor Messor N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd "https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd")
-- #### [Computer-Network-tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/ "https://www.geeksforgeeks.org/computer-network-tutorials/")
-- #### [Networking Tutorials - InetDaemon's IT Tutorials](https://www.inetdaemon.com/tutorials/networking/ "https://www.inetdaemon.com/tutorials/networking/")
-- #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8 "https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8")
+- #### [The Five Pillars of an Information/Cyber Security Professional](https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md)
+- #### [Professor Messor N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
+- #### [Computer-Network-tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/)
+- #### [Networking Tutorials - InetDaemon's IT Tutorials](https://www.inetdaemon.com/tutorials/networking/)
+- #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - #### [Networking Basics 1 (By Night and Skelli)](https://docs.google.com/presentation/d/1jPbu3AQxx7IMalCrOkuRX7jh3PxukB8lrpzysqObWDw/edit#slide=id.p)
-- #### [Networking Basics 2 (By Night and Skelli)](https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p "https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p")
+- #### [Networking Basics 2 (By Night and Skelli)](https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p)
 
 ---
 
@@ -102,14 +101,14 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
 - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
 - #### [Portswigger Web-Learning Path](https://portswigger.net/web-security/learning-path)
-- #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0 "https://gosecure.github.io/template-injection-workshop/#0")
+- #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0)
 - #### [OWASP's Top Ten Vulns (By Night and Skelli)](https://docs.google.com/presentation/d/1Hnn9PSs7zvtQyEFfxTvlQLbDhc0Jr5KaQwp0gw3anXM/edit#slide=id.g708a6ee8a1_0_46)
 - #### [Introduction to Web Application Hacking OWASP Top 10](https://cybrotacademy.com/course/introduction-to-web-application-hacking-owasp-top-10/)
 
 ---
 
 ## Binary-Exploitation
-- #### [Pwn College ](https://pwn.college/modules/intro "https://pwn.college/modules/intro")
+- #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
 
@@ -306,6 +305,6 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 	-  #### [Google Dorking Database](https://www.exploit-db.com/google-hacking-database/) 
  
 -  Windows Assembly Language Mega 
-	- #### [Assembly Language Mega 1](http://www.securitytube.net/groups?operation=view&groupId=6 "http://www.securitytube.net/groups?operation=view&groupId=6") 
-	- #### [Assembly Language Mega 2](http://www.securitytube.net/groups?operation=view&groupId=5 "http://www.securitytube.net/groups?operation=view&groupId=5")
+	- #### [Assembly Language Mega 1](http://www.securitytube.net/groups?operation=view&groupId=6) 
+	- #### [Assembly Language Mega 2](http://www.securitytube.net/groups?operation=view&groupId=5)
 ---
