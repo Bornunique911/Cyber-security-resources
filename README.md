@@ -286,21 +286,21 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 	- #### [OSCP Cheat sheets](https://github.com/slyth11907/Cheatsheets "https://github.com/slyth11907/Cheatsheets")
 	- #### [OSCP Preparation Guide 2021](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) 
 - CEH Cheat Sheet 
-	- #### [CEH cheat sheet](https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf "https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf") 
+	- #### [CEH Cheat Sheet](https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf "https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf") 
 - Net Bios Scan Cheat Sheet 
-	- #### [NBTSCAN cheat sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/ "https://highon.coffee/blog/nbtscan-cheat-sheet/") 
+	- #### [NBTSCAN Cheat Sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/ "https://highon.coffee/blog/nbtscan-cheat-sheet/") 
 - Reverse Shell Cheat Sheet 
-	- #### [Rev shell generator](https://0day.exposed/reverseshell "https://0day.exposed/reverseshell") 
+	- #### [Rev shell Generator](https://0day.exposed/reverseshell "https://0day.exposed/reverseshell") 
 - NMap Cheat Sheet 
 	
 	- #### [What is Nmap by Aksheet](https://aksheet10.medium.com/what-is-nmap-218784bcb495)
-	- #### [NMAP cheat sheet](https://highon.coffee/blog/nmap-cheat-sheet/ "https://highon.coffee/blog/nmap-cheat-sheet/") 
+	- #### [NMAP Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/ "https://highon.coffee/blog/nmap-cheat-sheet/") 
 - Linux Commands Cheat Sheet
-	- #### [Linux cheat sheet](https://highon.coffee/blog/linux-commands-cheat-sheet/ "https://highon.coffee/blog/linux-commands-cheat-sheet/") 
+	- #### [Linux Cheat Sheet](https://highon.coffee/blog/linux-commands-cheat-sheet/ "https://highon.coffee/blog/linux-commands-cheat-sheet/") 
 - Security Hardening CentO 7 
-	- #### [security harden centos 7](https://highon.coffee/blog/security-harden-centos-7/ "https://highon.coffee/blog/security-harden-centos-7/") 
+	- #### [Security Harden Centos 7](https://highon.coffee/blog/security-harden-centos-7/ "https://highon.coffee/blog/security-harden-centos-7/") 
 - MetaSploit Cheat Sheet 
-	- #### [Metasploit cheat sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf "https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf") 
+	- #### [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf "https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf") 
  - Google Hacking Database:
 		
 	-  #### [Google Dorking Database](https://www.exploit-db.com/google-hacking-database/ "https://www.exploit-db.com/google-hacking-database/") 
