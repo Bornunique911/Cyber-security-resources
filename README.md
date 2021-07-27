@@ -179,6 +179,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
+- #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
 - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
 - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
@@ -196,7 +197,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 - #### [Kerberoasting revisting](https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1)
 - #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - #### [Not A Security Boundary: Breaking Forest Trusts](https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-trusts/)
-- #### [IRED](https://www.ired.team)
+- #### [IRED TEAM](https://www.ired.team)
 - #### [Kerberoasting](https://attack.stealthbits.com/cracking-kerberos-tgs-tickets-using-kerberoasting)
 - #### [Harmj0y Blogs](https://blog.harmj0y.net)
 - #### [CIS232 lessons](http://cis232.cis131.com/lessons)
@@ -211,6 +212,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 - #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
 - #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
+- #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
 
 ---
 
@@ -273,17 +275,17 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 
 ---
-## Cheat sheets
+## Cheat Sheets
 - Penetration Tools Cheat Sheet
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ "https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/") 
 - Pen Testing Bookmarks
 	- #### [BookmarksList.md](https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md "https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md") 
 
 
-- OSCP Cheatsheets 
+- OSCP Cheat Sheets 
 	- #### [OSCP Cheat sheets](https://github.com/slyth11907/Cheatsheets "https://github.com/slyth11907/Cheatsheets")
 	- #### [OSCP Preparation Guide 2021](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) 
-- CEH Cheatsheet 
+- CEH Cheat Sheet 
 	- #### [CEH cheat sheet](https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf "https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf") 
 - Net Bios Scan Cheat Sheet 
 	- #### [NBTSCAN cheat sheet](https://highon.coffee/blog/nbtscan-cheat-sheet/ "https://highon.coffee/blog/nbtscan-cheat-sheet/") 
@@ -297,7 +299,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 	- #### [Linux cheat sheet](https://highon.coffee/blog/linux-commands-cheat-sheet/ "https://highon.coffee/blog/linux-commands-cheat-sheet/") 
 - Security Hardening CentO 7 
 	- #### [security harden centos 7](https://highon.coffee/blog/security-harden-centos-7/ "https://highon.coffee/blog/security-harden-centos-7/") 
-- MetaSploit Cheatsheet 
+- MetaSploit Cheat Sheet 
 	- #### [Metasploit cheat sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf "https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf") 
  - Google Hacking Database:
 		
