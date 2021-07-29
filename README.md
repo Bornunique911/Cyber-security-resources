@@ -188,6 +188,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 ## Windows and Active-Directory
 - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+- #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
+- #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
 - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
 - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
 - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
@@ -267,6 +269,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ## Extra Resources
 - #### [Cisco's Skillsforall](https://skillsforall.com/)
+- #### [LeanPub You can get many books](https://leanpub.com)
 - #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
 - #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
 - #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
