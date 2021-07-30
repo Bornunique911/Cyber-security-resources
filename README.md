@@ -33,6 +33,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
  ## Intro To CyberSec
+- ### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
 - #### [So you want to be a Hacker?](https://netsec.ws/?p=468)
 - #### [Becoming a Pentester by Jhalon](https://jhalon.github.io/becoming-a-pentester/)
@@ -88,6 +89,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ## Web-Pentesting
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
+- #### [HackerStop BugBounty resources](https://hackerstop.org/bugbounty)
 - #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
 - #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
 - #### [XSS Attacks Hackers-Arise](https://www.hackers-arise.com/post/2018/01/05/web-app-hacking-part-9-cross-site-scripting-xss)
@@ -261,6 +263,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## OSCP Resources
+- #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
 - #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
 - #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
@@ -268,6 +271,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+- #### [HackerStop](https://hackerstop.org/)
 - #### [Cisco's Skillsforall](https://skillsforall.com/)
 - #### [LeanPub You can get many books](https://leanpub.com)
 - #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
