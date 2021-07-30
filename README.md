@@ -122,7 +122,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
-  ### Blogs:-
+  ### Blogs :-
 
    - #### [PWN challenges Writeups](https://syedfarazabrar.com/)
    - #### [Kileak Github Writeups](https://kileak.github.io/)
