@@ -16,6 +16,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
+- [Android Pentesting](#android-pentesting)
 - [Forensics](#forensics)
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
@@ -33,6 +34,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
  ## Intro To CyberSec
+
 - ### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
 - #### [So you want to be a Hacker?](https://netsec.ws/?p=468)
@@ -88,6 +90,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Web-Pentesting
+
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
 - #### [HackerStop BugBounty resources](https://hackerstop.org/bugbounty)
 - #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
@@ -111,6 +114,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ## Binary-Exploitation
+
 - #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
@@ -134,9 +138,16 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ---
 
 ##  x86-64 Assembly
+
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html)
+
+---
+
+## Android Pentesting
+
+- ####  [HackerStop Mobile Pentesting](https://hackerstop.org/mobilepentesting)
 
 ---
 
@@ -159,10 +170,12 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
  	### Python
+	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 
 
 	### C++
+	 
 	 - #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 	 - #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
 	 - #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM) - The Bad Tutorials
@@ -175,12 +188,14 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
 
 	### C
+	
 	- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 	- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 	- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 	- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 	
 	### C#
+	
 	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
@@ -189,6 +204,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
+
 - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
 - #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
@@ -256,6 +272,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Overflows
+
 - #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 - #### [How2Heap](https://github.com/shellphish/how2heap)
@@ -263,6 +280,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## OSCP Resources
+
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
 - #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
 - #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
@@ -271,6 +289,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 ---
 
 ## Extra Resources
+
 - #### [HackerStop](https://hackerstop.org/)
 - #### [Cisco's Skillsforall](https://skillsforall.com/)
 - #### [LeanPub You can get many books](https://leanpub.com)
@@ -291,6 +310,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ---
 ## Cheat Sheets
+
 - Penetration Tools Cheat Sheet
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) 
 - Pen Testing Bookmarks
