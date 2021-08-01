@@ -148,7 +148,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ## Android Pentesting
 
-- ####  [HackerStop Mobile Pentesting](https://hackerstop.org/mobilepentesting)
+- #### [HackerStop Mobile Pentesting](https://hackerstop.org/mobilepentesting)
+- #### [Android Hacking video by Brain Moulding](https://youtu.be/OuMTTcFP8Nc)
 
 ---
 
