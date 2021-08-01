@@ -21,6 +21,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Practice Sites](#practice-sites)
 - [Programming](#programming)
      - [Python](#python)
+     - [JavaScript](#javascript)
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
@@ -169,10 +170,14 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Programming
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
- 	### Python
+ 	### Python 
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 
+	### JavaScript
+	
+	- #### [The Modern JavaScript Tutorial](https://javascript.info/)
+	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
 
 	### C++
 	 
