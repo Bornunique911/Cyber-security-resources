@@ -36,7 +36,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
  ## Intro To CyberSec
 
-- ### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
 - #### [So you want to be a Hacker?](https://netsec.ws/?p=468)
 - #### [Becoming a Pentester by Jhalon](https://jhalon.github.io/becoming-a-pentester/)
