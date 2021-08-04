@@ -14,6 +14,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Intro To CyberSec](#intro-to-cybersec)
 - [Networking](#networking)
 - [Web Pentesting](#web-pentesting)
+	- [Powershell](#powershell)
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
 - [Android Pentesting](#android-pentesting)
@@ -211,13 +212,17 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
+  
+  ### Powershell 
+   - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
+   - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
+   - #### [Learning Powershell by Microsoft](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
+   - #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
+   - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 
+  
 - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
-- #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
-- #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
 - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
-- #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
-- #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
 - #### [Kvenkatraman Gitbook AD101](https://kvenkatraman10.gitbook.io/ad101/)
 - #### [Attacking Kerberos (m0chan.github.io)](https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html)
