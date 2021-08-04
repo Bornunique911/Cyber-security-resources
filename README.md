@@ -212,7 +212,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
-       ### Powershell 
+       
+   ### Powershell 
   
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
@@ -221,33 +222,33 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [PowerShell command Cheat Sheet by TheMayor](https://www.themayor.tech/53512dc072c241589fc45c577ccea2ee?v=7b908e7e76a9416f98f40d9d3843d3cb)
    - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
   
-       ### Windows and Active Directory Hacking
+   ### Windows and Active Directory Hacking
   
-- #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
-- #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
-- #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
-- #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
-- #### [Kvenkatraman Gitbook AD101](https://kvenkatraman10.gitbook.io/ad101/)
-- #### [Attacking Kerberos (m0chan.github.io)](https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html)
-- #### [Active Directory Environments Part Introduction](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/)
-- #### [Active Directory Basics](https://activedirectorypro.com/glossary/)
-- #### [Tryhackme Active Directory Basics](https://tryhackme.com/room/activedirectorybasics)
-- #### [AD Escalation](https://hackmag.com/security/windows-ad-escalation/)
-- #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
-- #### [Kerberos authentication explained](https://www.varonis.com/blog/kerberos-authentication-explained/)
-- #### [AP-REP roasting using rebeus and hashcat](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat)
-- #### [PTT Attack in mimikatz](https://medium.com/@t0pazg3m/pass-the-ticket-ptt-attack-in-mimikatz-and-a-gotcha-96a5805e257a)
-- #### [Kerberoasting revisting](https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1)
-- #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
-- #### [Not A Security Boundary: Breaking Forest Trusts](https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-trusts/)
-- #### [IRED TEAM](https://www.ired.team)
-- #### [Kerberoasting](https://attack.stealthbits.com/cracking-kerberos-tgs-tickets-using-kerberoasting)
-- #### [Harmj0y Blogs](https://blog.harmj0y.net)
-- #### [CIS232 lessons](http://cis232.cis131.com/lessons)
-- #### [Active Directory Security](https://adsecurity.org/)
-- #### [Post Exploitation](http://www.pentest-standard.org/index.php/Post_Exploitation)
-- #### [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
-- #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
+   - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
+   - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+   - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
+   - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
+   - #### [Kvenkatraman Gitbook AD101](https://kvenkatraman10.gitbook.io/ad101/)
+   - #### [Attacking Kerberos (m0chan.github.io)](https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html)
+   - #### [Active Directory Environments Part Introduction](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/)
+   - #### [Active Directory Basics](https://activedirectorypro.com/glossary/)
+   - #### [Tryhackme Active Directory Basics](https://tryhackme.com/room/activedirectorybasics)
+   - #### [AD Escalation](https://hackmag.com/security/windows-ad-escalation/)
+   - #### [Building an Active Directory Lab](https://robertscocca.medium.com/building-an-active-directory-lab-82170dd73fb4)
+   - #### [Kerberos authentication explained](https://www.varonis.com/blog/kerberos-authentication-explained/)
+   - #### [AP-REP roasting using rebeus and hashcat](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat)
+   - #### [PTT Attack in mimikatz](https://medium.com/@t0pazg3m/pass-the-ticket-ptt-attack-in-mimikatz-and-a-gotcha-96a5805e257a)
+   - #### [Kerberoasting revisting](https://posts.specterops.io/kerberoasting-revisited-d434351bd4d1)
+   - #### [Attacking Active Directory (zer1t0)](https://zer1t0.gitlab.io/posts/attacking_ad/)
+   - #### [Not A Security Boundary: Breaking Forest Trusts](https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-trusts/)
+   - #### [IRED TEAM](https://www.ired.team)
+   - #### [Kerberoasting](https://attack.stealthbits.com/cracking-kerberos-tgs-tickets-using-kerberoasting)
+   - #### [Harmj0y Blogs](https://blog.harmj0y.net)
+   - #### [CIS232 lessons](http://cis232.cis131.com/lessons)
+   - #### [Active Directory Security](https://adsecurity.org/)
+   - #### [Post Exploitation](http://www.pentest-standard.org/index.php/Post_Exploitation)
+   - #### [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
+   - #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
 
 ---
 
