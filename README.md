@@ -212,8 +212,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
-  
-  ### Powershell 
+       ### Powershell 
   
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
@@ -222,7 +221,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [PowerShell command Cheat Sheet by TheMayor](https://www.themayor.tech/53512dc072c241589fc45c577ccea2ee?v=7b908e7e76a9416f98f40d9d3843d3cb)
    - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
   
-  ### Windows and Active Directory Hacking
+       ### Windows and Active Directory Hacking
   
 - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
 - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
