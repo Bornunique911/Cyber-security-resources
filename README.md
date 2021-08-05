@@ -212,10 +212,10 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## Windows and Active-Directory
- Powershell101 book is taken from learnpub
+- Powershell101 book is taken from learnpub
    ### Powershell 
   
-     - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
+   - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
    - #### [Learning Powershell by Microsoft](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
    - #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
