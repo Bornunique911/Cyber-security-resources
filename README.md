@@ -213,7 +213,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 --- 
 
 ## PowerShell, Windows and Active-Directory Hacking
-- Powershell101 book is taken from learnpub
+- Powershell101 book is from learnpub
 
 
    ### Powershell 
