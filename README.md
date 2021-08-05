@@ -25,7 +25,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
-- [Windows and Active Directory](#powershell-windows-and-active-directory)
+- [Windows and Active Directory](#powershell-windows-and-active-directory-hacking)
 	- [Powershell](#powershell)
 	- [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
 - [AV Evasion](#av-evasion)
