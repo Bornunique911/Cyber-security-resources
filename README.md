@@ -25,7 +25,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
-- [Windows and Active Directory](#windows-and-active-directory)
+- [Windows and Active Directory](#powershell-windows-and-active-directory)
 	- [Powershell](#powershell)
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTF's](#osint-challenges--ctfs)
@@ -225,7 +225,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 
 
-   ### Windows and Active Directory Hacking
+   ### PowerShell, Windows and Active Directory Hacking
   
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
    - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
