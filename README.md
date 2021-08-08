@@ -217,14 +217,19 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 - Powershell101 book is from learnpub
 
 
-   ### Powershell 
+   ### PowerShell 
   
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
-   - #### [PowerShell and DSC Team Channel](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
+   - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
+   - #### [PowerShell Beginners Guide](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/powershell-beginners-guide.md) (More Resources in the bottom on that page)
+   - #### [Windows PowerShell Tutorials](https://www.varonis.com/blog/windows-powershell-tutorials/)
+   - #### [Guru99 PowerShell Tutorials](https://www.guru99.com/powershell-tutorial.html)
+   - #### [All the things PowerShell (YouTube)](https://www.youtube.com/playlist?list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) - By Shane Young
+   - #### [PowerShell For Beginners Full Course (YouTube)](https://www.youtube.com/watch?v=UVUd9_k9C6A) - By Nerd's lesson 
    - #### [Learning Powershell by Microsoft](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell)
-   - #### [PS 101. An Intro To Powershell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
-   - #### [PowerShell command Cheat Sheet by TheMayor](https://www.themayor.tech/53512dc072c241589fc45c577ccea2ee?v=7b908e7e76a9416f98f40d9d3843d3cb)
-   - #### [Advanced Tools and Scripting with Powershell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
+   - #### [PS 101. An Intro To PowerShell by Grimmie](https://grimmie.net/ps-101-an-intro-to-powershell/)
+   - #### [PowerShell Commands Cheat Sheet by TheMayor](https://www.themayor.tech/53512dc072c241589fc45c577ccea2ee?v=7b908e7e76a9416f98f40d9d3843d3cb)
+   - #### [Advanced Tools and Scripting with PowerShell](https://channel9.msdn.com/Series/Advanced-Tools-and-Scripting-with-PowerShell-3.0-Jump-Start)
 
 
    ### Windows and Active Directory Hacking
