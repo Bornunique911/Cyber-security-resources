@@ -364,8 +364,9 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - MetaSploit Cheat Sheet 
 	- #### [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf) 
  - Google Hacking Database:
-		
+	
 	-  #### [Google Dorking Database](https://www.exploit-db.com/google-hacking-database/) 
+	-  #### [Google Hacking Cheat Sheet](https://cdn-cybersecurity.att.com/blog-content/GoogleHackingCheatSheet.pdf)
  
 -  Windows Assembly Language Mega 
 	- #### [Assembly Language Mega 1](http://www.securitytube.net/groups?operation=view&groupId=6) 
