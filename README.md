@@ -40,6 +40,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Awesome Computer History](https://github.com/watson/awesome-computer-history)
+- #### [ITMASTERS Free Short Course on PenTesting](https://itmasters.edu.au/free-short-course-pen-testing/) and a free exam at the end.
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
 - #### [So you want to be a Hacker?](https://netsec.ws/?p=468)
 - #### [Becoming a Pentester by Jhalon](https://jhalon.github.io/becoming-a-pentester/)
@@ -58,6 +59,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  ## Networking
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
+
+- #### [ITMASTERS Free Short Course Computer Network Fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) and a free exam at the end.
 - #### [FREE CCNA 200-301. Complete Course. NetworkChuck 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
 - #### [N/W Basics Part 1 Hackers-Arise](https://www.hackers-arise.com/networking-basics-part-1)
