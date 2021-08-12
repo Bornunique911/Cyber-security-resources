@@ -309,6 +309,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 - #### [How2Heap](https://github.com/shellphish/how2heap)
+- #### [OmegaVoid Blogs on BinExp BOF](https://omega-void.github.io/binexp-corner-1-bofs.html)
 
 ---
 
