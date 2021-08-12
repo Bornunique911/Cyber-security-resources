@@ -39,6 +39,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  ## Intro To CyberSec
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
+- #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
 - #### [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - #### [ITMASTERS Free Short Course on PenTesting](https://itmasters.edu.au/free-short-course-pen-testing/) and a free exam at the end.
 - #### [Introduction to Cyber Security](https://skillsforall.com/course/introduction-to-cybersecurity) (Skillsforall)
