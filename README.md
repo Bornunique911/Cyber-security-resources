@@ -29,8 +29,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 	- [Powershell](#powershell)
 	- [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
 - [AV Evasion](#av-evasion)
-- [OSINT Challenges / CTF's](#osint-challenges--ctfs)
-- [Overflows](#overflows)
+- [OSINT Challenges / CTFs](#osint-challenges--ctfs)
 - [OSCP resources](#oscp-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
@@ -125,9 +124,17 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Binary-Exploitation
 
 - #### [Pwn College ](https://pwn.college/modules/intro)
-- #### [Swanand's blog on Reversing](https://swanandx.github.io/blog/posts/re/ctfs/)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
-
+- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
+- #### [How2Heap](https://github.com/shellphish/how2heap)
+- #### [OmegaVoid Blogs on BinExp BOF](https://omega-void.github.io/binexp-corner-1-bofs.html)
+- #### [Binary Exploitation for beginners](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html)
+- #### [Exploit Development Learning Roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/)
+- #### [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+- #### [Windows Binary Course (with videos)](https://github.com/ashemery/exploitation-course)
+- #### [Exploit Development Learning resources](https://kalitut.com/exploit-development-resources/)
+- #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/)
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
@@ -138,6 +145,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
    - #### [4mianwayne PWN Writeups](https://d4mianwayne.github.io/)
    - #### [CTF101 Bin-Exp Buffer Overflow](https://ctf101.org/binary-exploitation/buffer-overflow/)
    - #### [Skull Security PWN CTF walkthroughs](https://blog.skullsecurity.org/category/ctfs)
+   - #### [Google project zero blog](https://googleprojectzero.blogspot.com/)
+   - #### 
 
   ### Youtube :-
 
@@ -301,15 +310,6 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 - #### [TryHackMe MNEMONIC room](https://tryhackme.com/room/mnemonic)
 - #### [TryHackMe JPGChat room](https://tryhackme.com/room/jpgchat)
 - #### [TryHackMe Shodan room](https://tryhackme.com/room/shodan)
-
----
-
-## Overflows
-
-- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
-- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
-- #### [How2Heap](https://github.com/shellphish/how2heap)
-- #### [OmegaVoid Blogs on BinExp BOF](https://omega-void.github.io/binexp-corner-1-bofs.html)
 
 ---
 
