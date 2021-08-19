@@ -26,6 +26,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
      - [C++](#c)
      - [C](#c-1)
      - [C#](#c-2)
+     - [Bash](#bash)
 - [Windows and Active Directory](#powershell-windows-and-active-directory-hacking)
 	- [Powershell](#powershell)
 	- [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
@@ -177,7 +178,6 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Introduction to Windows Forensics](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve)
 - #### [A source for pcap files and malware samples](https://www.malware-traffic-analysis.net/)
 
-
 ---
 
 ## Amazing Sites
@@ -186,7 +186,19 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
 - #### [TryHackMe](https://tryhackme.com)
 - #### [HackTheBox](https://hackthebox.eu)
-
+- #### [Active Directory Security](https://adsecurity.org/)
+- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+- #### [DFIR Madness](https://dfirmadness.com/)
+- #### [HackerStop](https://hackerstop.org/)
+- #### [Cisco's Skillsforall](https://skillsforall.com/)
+- #### [LeanPub (You can get many books)](https://leanpub.com)
+- #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
+- #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
+- #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
+- #### [Hackers Arise](https://www.hackers-arise.com/)
+- #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
+- #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
+- #### [Learn Linux](https://linuxjourney.com/)
 ---
 
 ## Pivoting Guides
@@ -240,6 +252,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 	- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 	
+	### Bash
+	
+	- #### [Bash Programming guide](https://guide.bash.academy/)
 
 --- 
 
@@ -264,8 +279,10 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+     
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
    - #### [Active Directory Pentesting Cheat Sheet](https://infosecwriteups.com/active-directory-penetration-testing-cheatsheet-5f45aa5b44ff) - InfoSec Writups
+   - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
    - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
    - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
    - #### [AD External Penesting by robbertscocca](https://robertscocca.medium.com/ad-lab-external-pentesting-e2938e1b7da8)
@@ -331,35 +348,27 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ## Certification Resources
 Resources for eCCPTv2, OSCP and many more
- OSCP
-	- #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
-	- #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
-	- #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
-	- #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
-eCCPTv2
-	- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+### OSCP
+- #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+- #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
+- #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
+- #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+### eCCPTv2
+- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+- #### [Guides for Pivoting](#pivoting-guides)
+### Security+
+- #### [Proffesor Messor's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+
+	
 
 ---
 
 ## Extra Resources
 
-- #### [HackerStop](https://hackerstop.org/)
-- #### [Cisco's Skillsforall](https://skillsforall.com/)
-- #### [LeanPub You can get many books](https://leanpub.com)
-- #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
-- #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
-- #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
-- #### [Hackers Arise](https://www.hackers-arise.com/)
-- #### [Bash Programming guide](https://guide.bash.academy/)
-- #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
-- #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
-- #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
-- #### [Learn Linux](https://linuxjourney.com/)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### Precompiled Exploits: 
 	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits) 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
-- #### [Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 
 ---
 ## Cheat Sheets
