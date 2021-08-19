@@ -33,6 +33,10 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
 - [Certification Resources](#certification-resources)
+      - [OSCP](#oscp)
+      - [eCCPTv2](#eccptv2)
+      - [Security+](#security)
+      - [Network+](#neytwork)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
 ---
@@ -91,7 +95,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [What is Computer Networking](https://www.lifewire.com/what-is-computer-networking-816249)
 - #### [Networking Fundamentals (netacad)](https://www.netacad.com/courses/networking/networking-essential)
 - #### [The Five Pillars of an Information/Cyber Security Professional](https://github.com/ED-209-MK7/5pillars/blob/master/5-Pillars.md)
-- #### [Professor Messor N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
+- #### [Professor Messer N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 - #### [Computer-Network-tutorials](https://www.geeksforgeeks.org/computer-network-tutorials/)
 - #### [Networking Tutorials - InetDaemon's IT Tutorials](https://www.inetdaemon.com/tutorials/networking/)
 - #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
@@ -183,6 +187,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [Nickapic's notes](https://enotes.nickapic.com/)
+
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
 - #### [TryHackMe](https://tryhackme.com)
 - #### [HackTheBox](https://hackthebox.eu)
@@ -193,12 +199,13 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Cisco's Skillsforall](https://skillsforall.com/)
 - #### [LeanPub (You can get many books)](https://leanpub.com)
 - #### [Name The Hash (Usefull for finding the hash type and hashcat/john mode)](https://nth.skerritt.blog/)
-- #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/?#)
+- #### [IPPSEC Blogs, Videos and Walkthroughs](https://ippsec.rocks/)
 - #### [NetCat Use Cases](https://blog.ikuamike.io/posts/2021/netcat/)
 - #### [Hackers Arise](https://www.hackers-arise.com/)
 - #### [Exploit Development and Overflows FuzzySecurity](https://www.fuzzysecurity.com/)
 - #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
 - #### [Learn Linux](https://linuxjourney.com/)
+- #### [Proffesor Messer](https://www.professormesser.com/)
 ---
 
 ## Pivoting Guides
@@ -357,17 +364,15 @@ Resources for eCCPTv2, OSCP and many more
 - #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [Guides for Pivoting](#pivoting-guides)
 ### Security+
-- #### [Proffesor Messor's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+- #### [Proffesor Messer's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+#### Network+
+- #### [Professor Messer N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 
 	
 
 ---
 
 ## Extra Resources
-
-- #### [Nickapic's notes](https://enotes.nickapic.com/)
-- #### Precompiled Exploits: 
-	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits) 
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
 
 ---
@@ -377,8 +382,8 @@ Resources for eCCPTv2, OSCP and many more
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) 
 - Pen Testing Bookmarks
 	- #### [BookmarksList.md](https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md) 
-
-
+- Precompiled Exploits: 
+	- #### [Offensive Security/exploit database bin sploits](https://github.com/offensive-security/exploit-database-bin-sploits) 
 - OSCP Cheat Sheets 
 	- #### [OSCP Cheat sheets](https://github.com/slyth11907/Cheatsheets)
 	- #### [OSCP Preparation Guide 2021](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/) 
@@ -389,7 +394,6 @@ Resources for eCCPTv2, OSCP and many more
 - Reverse Shell Cheat Sheet 
 	- #### [Rev shell Generator](https://0day.exposed/reverseshell) 
 - NMap Cheat Sheet 
-	
 	- #### [What is Nmap by Aksheet](https://aksheet10.medium.com/what-is-nmap-218784bcb495)
 	- #### [NMAP Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/) 
 - Linux Commands Cheat Sheet
@@ -399,10 +403,9 @@ Resources for eCCPTv2, OSCP and many more
 - MetaSploit Cheat Sheet 
 	- #### [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf) 
  - Google Hacking Database:
-	
-	-  #### [Google Dorking Database](https://www.exploit-db.com/google-hacking-database/) 
-	-  #### [Google Hacking Cheat Sheet](https://cdn-cybersecurity.att.com/blog-content/GoogleHackingCheatSheet.pdf)
- 
+	- #### [Google Dorking Database](https://www.exploit-db.com/google-hacking-database/) 
+	- #### [Google Hacking Cheat Sheet](https://cdn-cybersecurity.att.com/blog-content/GoogleHackingCheatSheet.pdf)
+
 -  Windows Assembly Language Mega 
 	- #### [Assembly Language Mega 1](http://www.securitytube.net/groups?operation=view&groupId=6) 
 	- #### [Assembly Language Mega 2](http://www.securitytube.net/groups?operation=view&groupId=5)
