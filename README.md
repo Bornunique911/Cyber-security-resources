@@ -18,7 +18,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [x86-64 Assembly](#x86-64-assembly)
 - [Android Pentesting](#android-pentesting)
 - [Forensics](#forensics)
-- [Practice Sites](#practice-sites)
+- [Amazing Training Sites](#amazing-sites)
+- [Pivoting Guides](#pivoting-guides)
 - [Programming](#programming)
      - [Python](#python)
      - [JavaScript](#javascript)
@@ -30,7 +31,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 	- [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
-- [OSCP resources](#oscp-resources)
+- [Certification Resources](#certification-resources)
 - [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
 ---
@@ -38,6 +39,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
  ## Intro To CyberSec
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
 - #### [Awesome Computer History](https://github.com/watson/awesome-computer-history)
@@ -178,10 +180,24 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 
 ---
 
-## Practice-Sites
+## Amazing Sites
+
+- #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
 - #### [TryHackMe](https://tryhackme.com)
 - #### [HackTheBox](https://hackthebox.eu)
+
+---
+
+## Pivoting Guides
+
+(These can also be very helpfull for eCCPTv2)
+
+- #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
+- #### [The Cyber Plumber's Handbook(It is a paid book)](https://opsdisk.gumroad.com/l/the_cyber_plumbers_handbook)
+- #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
+- #### [Pivoting With Chisel](https://ap3x.github.io/posts/pivoting-with-chisel/)
+- #### [Nessus over SOCKS over Metasploit](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
 
 ---
 
@@ -313,12 +329,15 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 
 ---
 
-## OSCP Resources
-
-- #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
-- #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
-- #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
-- #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+## Certification Resources
+Resources for eCCPTv2, OSCP and many more
+ OSCP
+	- #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+	- #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
+	- #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
+	- #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+eCCPTv2
+	- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 
 ---
 
