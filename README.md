@@ -381,8 +381,7 @@ Resources for eCCPTv2, OSCP and many more
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
 - #### [Guides for Pivoting](#pivoting-guides)
 #### eCPTXv2
-- #### [Great eCPTXv3 External Resources](https://community.ine.com/t/great-ptx-ecptxv2-external-resources/614)
-
+- #### [Great eCPTXv2 External Resources](https://community.ine.com/t/great-ptx-ecptxv2-external-resources/614)
 ### Security+
 - #### [Proffesor Messer's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 #### Network+
@@ -391,12 +390,14 @@ Resources for eCCPTv2, OSCP and many more
 
 ## Cheat Sheets
 
-- Read Team Cheat Sheets
+- Windows and AD Cheat Sheets
 
+   - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
+   - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
    - #### [RedTeam_CheatSheet.ps1 by Jivoi](https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70)
    - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
    - #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
-
+   - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
 - Penetration Tools Cheat Sheet
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 	- #### [Jivoli Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
