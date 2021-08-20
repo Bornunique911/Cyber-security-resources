@@ -35,10 +35,11 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [Certification Resources](#certification-resources)
       - [OSCP](#oscp)
       - [eCCPTv2](#eccptv2)
+      - [eCPTXv2](#ecptxv2)
       - [Security+](#security)
       - [Network+](#neytwork)
-- [Extra Resources](#extra-resources)
 - [Cheat Sheets](#cheat-sheets)
+
 ---
 
  ## Intro To CyberSec
@@ -107,6 +108,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Web-Pentesting
 
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
+- #### [HackAllTheThings Web-App Articles](https://akenofu.gitbook.io/hackallthethings/web-applications)
 - #### [Web Hacking 101 PwnFuntion](https://www.youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ)
 - #### [HackerStop BugBounty resources](https://hackerstop.org/bugbounty)
 - #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
@@ -174,6 +176,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Android Pentesting
 
 - #### [HackerStop Mobile Pentesting](https://hackerstop.org/mobilepentesting)
+- #### [HackAllTheThings Mobile Pentesting](https://akenofu.gitbook.io/hackallthethings/mobile-applications/android)
 - #### [Android Hacking video by Brain Moulding](https://youtu.be/OuMTTcFP8Nc)
 
 ---
@@ -188,6 +191,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### [ExplainShell](https://explainshell.com/)
@@ -208,6 +212,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Tsushima blogs (Programming and CyberSec)](https://dev.to/yumatsushima07)
 - #### [Learn Linux](https://linuxjourney.com/)
 - #### [Proffesor Messer](https://www.professormesser.com/)
+- #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
+
 ---
 
 ## Pivoting Guides
@@ -276,6 +282,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
   
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
+   - #### [HackAllTheThings PowerShell Cheat Sheet](https://akenofu.gitbook.io/hackallthethings/active-directory/powershell-one-liners)
    - #### [PowerShell Beginners Guide](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/powershell-beginners-guide.md) (More Resources in the bottom on that page)
    - #### [Windows PowerShell Tutorials](https://www.varonis.com/blog/windows-powershell-tutorials/)
    - #### [Guru99 PowerShell Tutorials](https://www.guru99.com/powershell-tutorial.html)
@@ -290,6 +297,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+   - #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
    - #### [Active Directory Pentesting Cheat Sheet](https://infosecwriteups.com/active-directory-penetration-testing-cheatsheet-5f45aa5b44ff) - InfoSec Writups
    - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
@@ -369,19 +377,15 @@ Resources for eCCPTv2, OSCP and many more
 - #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
 - #### [Guides for Pivoting](#pivoting-guides)
+#### eCPTXv2
+- #### [Great eCPTXv3 External Resources](https://community.ine.com/t/great-ptx-ecptxv2-external-resources/614)
+
 ### Security+
 - #### [Proffesor Messer's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
 #### Network+
 - #### [Professor Messer N10-007 Network+](https://www.youtube.com/watch?v=6LzuIch-wQo&list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 
-	
 
----
-
-## Extra Resources
-- #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
-
----
 ## Cheat Sheets
 
 - Penetration Tools Cheat Sheet
