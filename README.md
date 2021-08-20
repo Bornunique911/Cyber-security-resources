@@ -366,6 +366,7 @@ Resources for eCCPTv2, OSCP and many more
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 ### eCCPTv2
 - #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+- #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
 - #### [Guides for Pivoting](#pivoting-guides)
 ### Security+
 - #### [Proffesor Messer's Security+ Training](https://www.youtube.com/playlist?list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
