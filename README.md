@@ -107,6 +107,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Web-Pentesting
 
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
+- #### [Web Hacking 101 PwnFuntion](https://www.youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ)
 - #### [HackerStop BugBounty resources](https://hackerstop.org/bugbounty)
 - #### [HackerSploit Web-App PenTesting Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
 - #### [XXE Vulnerabilities and Attacks Hackers-Arise](https://www.hackers-arise.com/post/web-app-hacking-xxe-vulnerabilities-and-attacks)
