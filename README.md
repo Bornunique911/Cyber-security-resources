@@ -187,8 +187,9 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
-
+- #### [ExplainShell](https://explainshell.com/)
 - #### [List of *hackable* sites](https://razvioverflow.github.io/starthacking)
 - #### [TryHackMe](https://tryhackme.com)
 - #### [HackTheBox](https://hackthebox.eu)
@@ -213,6 +214,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 (These can also be very helpfull for eCCPTv2)
 
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
+- #### [BackDoorShell blog for Pivoting](https://backdoorshell.gitbooks.io/oscp-useful-links/content/pivoting.html)
 - #### [The Cyber Plumber's Handbook(It is a paid book)](https://opsdisk.gumroad.com/l/the_cyber_plumbers_handbook)
 - #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 - #### [Pivoting With Chisel](https://ap3x.github.io/posts/pivoting-with-chisel/)
@@ -286,7 +288,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
-     
+   - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
    - #### [Active Directory Pentesting Cheat Sheet](https://infosecwriteups.com/active-directory-penetration-testing-cheatsheet-5f45aa5b44ff) - InfoSec Writups
    - #### [CMD for Administration](https://www.robvanderwoude.com/ntadmincommands.php)
@@ -357,6 +359,8 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 Resources for eCCPTv2, OSCP and many more
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+- #### [Tips for OSCP](https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/)
+- #### [BackDoorShell OSCP Usefull Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)
 - #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
 - #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
@@ -379,7 +383,8 @@ Resources for eCCPTv2, OSCP and many more
 ## Cheat Sheets
 
 - Penetration Tools Cheat Sheet
-	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) 
+	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+	- #### [Jivoli Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 - Pen Testing Bookmarks
 	- #### [BookmarksList.md](https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md) 
 - Precompiled Exploits: 
