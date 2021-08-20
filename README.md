@@ -392,6 +392,8 @@ Resources for eCCPTv2, OSCP and many more
 
 - Read Team Cheat Sheets
         - #### [RedTeam_CheatSheet.ps1 by Jivoi](https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70)
+        - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
+   	- #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
 
 - Penetration Tools Cheat Sheet
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
