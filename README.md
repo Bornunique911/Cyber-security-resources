@@ -33,11 +33,11 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
 - [Certification Resources](#certification-resources)
-      - [OSCP](#oscp)
-      - [eCCPTv2](#eccptv2)
-      - [eCPTXv2](#ecptxv2)
-      - [Security+](#security)
-      - [Network+](#neytwork)
+	- [OSCP](#oscp)
+      	- [eCCPTv2](#eccptv2)
+      	- [eCPTXv2](#ecptxv2)
+      	- [Security+](#security)
+      	- [Network+](#neytwork)
 - [Cheat Sheets](#cheat-sheets)
 
 ---
