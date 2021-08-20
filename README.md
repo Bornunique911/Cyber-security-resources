@@ -222,6 +222,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 (These can also be very helpfull for eCCPTv2)
 
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
+- #### [Explore Hidden Networks with Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) - Pentest.blog
 - #### [BackDoorShell blog for Pivoting](https://backdoorshell.gitbooks.io/oscp-useful-links/content/pivoting.html)
 - #### [The Cyber Plumber's Handbook(It is a paid book)](https://opsdisk.gumroad.com/l/the_cyber_plumbers_handbook)
 - #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
