@@ -297,6 +297,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+   - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
+   - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
    - #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
    - #### [Active Directory Pentesting Cheat Sheet](https://infosecwriteups.com/active-directory-penetration-testing-cheatsheet-5f45aa5b44ff) - InfoSec Writups
@@ -387,6 +389,9 @@ Resources for eCCPTv2, OSCP and many more
 
 
 ## Cheat Sheets
+
+- Read Team Cheat Sheets
+        - #### [RedTeam_CheatSheet.ps1 by Jivoi](https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70)
 
 - Penetration Tools Cheat Sheet
 	- #### [Penetration-testing-tools-cheat-sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
