@@ -192,6 +192,8 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
+- #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
 - #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
